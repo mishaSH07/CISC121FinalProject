@@ -12,6 +12,17 @@ An interactive Gradio website that visualizes the binary search algorithm as a p
 
 ## Demo video/gif/screenshot of test
 
+First Loading In:
+![loadingin](images/initialss.png)
+
+Mid Binary Search:
+![midsearch](images/midsearchss.png)
+
+Treasure Found:
+![treasurefound](images/treasurefoundss.png)
+
+Treasure Not Found: 
+![treasurenotfound](images/treasurenotfoundss.png)
 
 ## Problem Breakdown & Computational Thinking
 
